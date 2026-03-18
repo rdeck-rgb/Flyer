@@ -1,0 +1,5 @@
+{
+  "name": "Job Flyer Generator",
+  "description": "Generate professional job flyers by pasting a job description. Automatically extracts details and generates a thematic background based on the industry.",
+  "requestFramePermissions": []
+}
